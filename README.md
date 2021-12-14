@@ -1,0 +1,1 @@
+# pinktheme-syntax
