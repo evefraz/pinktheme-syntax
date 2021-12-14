@@ -1,0 +1,17 @@
+{
+  "name": "pinktheme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A pink theme for pink. Looks best in dark ui.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "pink",
+    "purple"
+  ],
+  "repository": "https://github.com/atom/pinktheme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
